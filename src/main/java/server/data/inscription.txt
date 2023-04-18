@@ -1,0 +1,9 @@
+Automne	IFT2255	12345678	Michalis	Famelis	mfamelis@iro.umontreal.ca
+Hiver	IFT1025	120332	shma	sa	as@gmail.com
+Hiver	IFT1025	21324	asd	sdads	asddfsa@fma.com
+Hiver	IFT1025	121212	ads	sdads	saddsa!@mfg.com
+Ete	IFT2256	234123	sadds	saddsa	adsa@gmail.com
+Hiver	IFT1025	123456	hm	sdsa	ads@gmail.com
+Hiver	IFT1025	123456	sadd	dssd	asdsa@gmail.com
+Hiver	IFT1025	123345	adadad	nananan	ada@nan.com
+Automne	IFT1015	123321	ishmam	Ahmed	adsa@gmai.com
